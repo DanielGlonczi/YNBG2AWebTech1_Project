@@ -1,0 +1,274 @@
+{
+  "cars": {
+    "demon": {
+      "name": "Demon 170",
+      "fullName": "Dodge Challenger SRT Demon 170",
+      "year": 2023,
+      "specifications": {
+        "engine": {
+          "type": "6.2L HEMI V8 Supercharged",
+          "displacement": "6166 cc",
+          "cylinders": 8,
+          "configuration": "V8",
+          "fuelType": "E85 / Benzin",
+          "supercharger": "3.0L IHI Supercharger"
+        },
+        "performance": {
+          "horsepower": 1025,
+          "horsepowerRPM": 6500,
+          "torque": 1281,
+          "torqueUnit": "Nm",
+          "torqueRPM": 4200,
+          "acceleration0to100": 1.9,
+          "quarterMile": {
+            "time": 8.91,
+            "speed": 251
+          },
+          "topSpeed": 270
+        },
+        "transmission": {
+          "type": "Automata",
+          "gears": 8,
+          "manufacturer": "TorqueFlite"
+        },
+        "drivetrain": {
+          "type": "Hátsókerék-hajtás",
+          "differential": "Limited-slip"
+        }
+      },
+      "dimensions": {
+        "length": 5022,
+        "width": 1923,
+        "height": 1448,
+        "wheelbase": 2946,
+        "weight": 1950
+      },
+      "pricing": {
+        "basePrice": 120000000,
+        "currency": "HUF",
+        "availability": "Limitált"
+      },
+      "features": [
+        "TransBrake rendszer",
+        "Line Lock funkció",
+        "Drag Racing mód",
+        "Adaptive Damping futómű",
+        "315/50R17 Nitto NT05R gumik",
+        "Carbon fiber SRT ülések",
+        "Alcantara kárpit",
+        "Performance Pages kijelző"
+      ],
+      "colors": ["Pitch Black", "White Knuckle", "Octane Red", "Sublime Green"]
+    },
+    "hellcat": {
+      "name": "Hellcat Redeye",
+      "fullName": "Dodge Challenger SRT Hellcat Redeye",
+      "year": 2023,
+      "specifications": {
+        "engine": {
+          "type": "6.2L HEMI V8 Supercharged",
+          "displacement": "6166 cc",
+          "cylinders": 8,
+          "configuration": "V8",
+          "fuelType": "Benzin",
+          "supercharger": "2.7L Supercharger"
+        },
+        "performance": {
+          "horsepower": 807,
+          "horsepowerRPM": 6300,
+          "torque": 972,
+          "torqueUnit": "Nm",
+          "torqueRPM": 4500,
+          "acceleration0to100": 3.4,
+          "quarterMile": {
+            "time": 10.8,
+            "speed": 212
+          },
+          "topSpeed": 327
+        },
+        "transmission": {
+          "type": "Automata",
+          "gears": 8,
+          "manufacturer": "TorqueFlite"
+        },
+        "drivetrain": {
+          "type": "Hátsókerék-hajtás",
+          "differential": "Electronic limited-slip"
+        }
+      },
+      "dimensions": {
+        "length": 5022,
+        "width": 1923,
+        "height": 1448,
+        "wheelbase": 2946,
+        "weight": 2060
+      },
+      "pricing": {
+        "basePrice": 45000000,
+        "currency": "HUF",
+        "availability": "Elérhető"
+      },
+      "features": [
+        "Launch Control",
+        "Drive Modes (Street/Sport/Track)",
+        "Dual-Snorkel Hood",
+        "Widebody opció",
+        "Brembo 6 dugattyús fékek",
+        "Performance Pages",
+        "Harman Kardon hangrendszer",
+        "Uconnect 5 infotainment"
+      ],
+      "colors": [
+        "Pitch Black",
+        "Octane Red",
+        "F8 Green",
+        "Plum Crazy Purple",
+        "Go Mango Orange"
+      ]
+    },
+    "jailbreak": {
+      "name": "Jailbreak",
+      "fullName": "Dodge Challenger SRT Hellcat Jailbreak",
+      "year": 2022,
+      "specifications": {
+        "engine": {
+          "type": "6.2L HEMI V8 Supercharged",
+          "displacement": "6166 cc",
+          "cylinders": 8,
+          "configuration": "V8",
+          "fuelType": "Benzin",
+          "supercharger": "2.7L Supercharger"
+        },
+        "performance": {
+          "horsepower": 807,
+          "horsepowerRPM": 6300,
+          "torque": 972,
+          "torqueUnit": "Nm",
+          "torqueRPM": 4500,
+          "acceleration0to100": 3.4,
+          "quarterMile": {
+            "time": 10.8,
+            "speed": 212
+          },
+          "topSpeed": 327
+        },
+        "transmission": {
+          "type": "Automata",
+          "gears": 8,
+          "manufacturer": "TorqueFlite"
+        },
+        "drivetrain": {
+          "type": "Hátsókerék-hajtás",
+          "differential": "Electronic limited-slip"
+        }
+      },
+      "dimensions": {
+        "length": 5022,
+        "width": 1923,
+        "height": 1448,
+        "wheelbase": 2946,
+        "weight": 2060
+      },
+      "pricing": {
+        "basePrice": 48000000,
+        "currency": "HUF",
+        "availability": "Limitált"
+      },
+      "features": [
+        "Korlátlan szín kombináció",
+        "Egyedi felni választék",
+        "Mix & Match testreszabás",
+        "Widebody vagy standard karosszéria",
+        "Exkluzív Jailbreak logó",
+        "Limitált darabszám",
+        "Carbon fiber csomagok",
+        "Prémium bőrbelső opciók"
+      ],
+      "colors": ["Bármilyen kombináció elérhető"],
+      "customization": {
+        "exteriorColors": 14,
+        "interiorColors": 8,
+        "wheelOptions": 12,
+        "uniqueCombinations": "Végtelen"
+      }
+    },
+    "srt": {
+      "name": "SRT 392",
+      "fullName": "Dodge Challenger SRT 392",
+      "year": 2023,
+      "specifications": {
+        "engine": {
+          "type": "6.4L HEMI V8",
+          "displacement": "6417 cc",
+          "cylinders": 8,
+          "configuration": "V8",
+          "fuelType": "Benzin",
+          "aspiration": "Naturally Aspirated"
+        },
+        "performance": {
+          "horsepower": 485,
+          "horsepowerRPM": 6100,
+          "torque": 644,
+          "torqueUnit": "Nm",
+          "torqueRPM": 4300,
+          "acceleration0to100": 4.2,
+          "quarterMile": {
+            "time": 12.3,
+            "speed": 187
+          },
+          "topSpeed": 285
+        },
+        "transmission": {
+          "type": "Automata",
+          "gears": 8,
+          "manufacturer": "TorqueFlite"
+        },
+        "drivetrain": {
+          "type": "Hátsókerék-hajtás",
+          "differential": "Limited-slip"
+        }
+      },
+      "dimensions": {
+        "length": 5022,
+        "width": 1923,
+        "height": 1448,
+        "wheelbase": 2946,
+        "weight": 1935
+      },
+      "pricing": {
+        "basePrice": 28000000,
+        "currency": "HUF",
+        "availability": "Elérhető"
+      },
+      "features": [
+        "Aktív kipufogórendszer",
+        "Sport-hangolt futómű",
+        "Drive Modes",
+        "Uconnect 5 (10.1\" képernyő)",
+        "Adaptív tempomat",
+        "Fűthető és szellőztethető ülések",
+        "LED világítás",
+        "Brembo fékrendszer"
+      ],
+      "colors": [
+        "Pitch Black",
+        "White Knuckle",
+        "Octane Red",
+        "Indigo Blue",
+        "Granite Crystal"
+      ]
+    }
+  },
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-11-03",
+    "source": "Dodge Challenger Hungary",
+    "disclaimer": "Az árak tájékoztató jellegűek és változhatnak."
+  },
+  "comparisons": {
+    "mostPowerful": "demon",
+    "bestValue": "srt",
+    "mostCustomizable": "jailbreak",
+    "topSpeed": "hellcat"
+  }
+}
